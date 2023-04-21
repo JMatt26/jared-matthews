@@ -1,0 +1,33 @@
+.headerText{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 3.5rem;
+    left: 3rem;
+    top: 12rem;
+    position: absolute;
+}
+
+.midHeaderText {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 3.5rem;
+    left: 9rem;
+    top: 18rem;
+    position: absolute;
+}
+
+.bottomHeaderText {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 3.5rem;
+    left: 3rem;
+    top: 24rem;
+    position: absolute;
+}
+
+.bodyText{
+    font-family: 'Josefin Sans', sans-serif;
+    position: absolute;
+    font-size: 1.875rem;
+    opacity: 50%;
+    left: 3rem;
+    top: 30rem;
+    width: 44rem;
+}

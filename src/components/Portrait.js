@@ -4,10 +4,8 @@ import styles from '../styles/components/Portrait.module.css'
 
 export default function Portrait() {
     return (
-        <div>
-        <Container >
-             <Image src="Profile.png" alt="Profile" className={styles.portrait}/>
+        <Container>
+             <Image src="Profile.png" alt="Profile" className={styles.portrait} />
         </Container>
-        </div>
     );
 }

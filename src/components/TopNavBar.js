@@ -2,13 +2,12 @@ import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import Image from 'react-bootstrap/Image';
-import NavDropdown from 'react-bootstrap/NavDropdown';
 import styles from '../styles/components/TopNavbar.module.css'
 import { BsFillMoonFill } from "react-icons/bs";
 
 export default function TopNavBar() {
     return (
-        <Navbar style={{background: "#ffff", outline: "thin solid"}} fixed="top" collapseOnSelect expand="sm">
+        <Navbar style={{background: "#ffff", outline: "thin solid"}} fixed="top" collapseOnSelect >
             <Container>
              <Image src="Logo.png" height="90" alt="Logo" />
              </Container>
