@@ -1,9 +1,9 @@
 .portrait {
-    border-radius: 100%;
-    position: absolute;
-    right: 6.5rem;
-    top: 10rem;
-    height: 30rem;
-    width: 35rem;
-    outline: solid thin;
+  border-radius: 100%;
+  position: absolute;
+  right: 6.5rem;
+  top: 10rem;
+  height: 30rem;
+  width: 35rem;
+  outline: solid thin;
 }
