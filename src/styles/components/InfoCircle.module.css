@@ -3,4 +3,13 @@
   border-radius: 50%;
   width: 8rem;
   height: 8rem;
+  position: absolute;
+  left: 6rem;
+}
+
+.circleHeader {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 1.8rem;
+  width: 20rem;
+  text-align: center;
 }
